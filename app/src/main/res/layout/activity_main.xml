@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorDarkBlue"
+        android:theme="@style/Theme.ToolBar.BigBang" />
+
+    <Button
+        android:id="@+id/open_bt"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bt_bg"
+        android:text="开启"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/close_bt"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/open_bt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bt_bg"
+        android:text="关闭"
+        android:textColor="@color/colorWhite" />
+
+</RelativeLayout>

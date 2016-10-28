@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BigBang</string>
+    <string name="already_copy">已经复制到剪贴板</string>
+    <string name="none_select">什么都没有选择</string>
+    <string name="network_fault">网络故障</string>
+    <string name="appid">23755</string>
+    <string name="appsign">2e4aa9f199a2419b8512131ed086fe8a</string>
+    <string name="open_service">已经开启服务</string>
+    <string name="close_service">已经关闭服务</string>
+    <string name="about">关于</string>
+    <string name="author">作者</string>
+    <string name="sure">确定</string>
+    <string name="MoreAbout">软件功能：\n1.\t开启服务后,记得别把软件退出了,最小化后。\n2.\t在其他任意界面,使用复制功能,就可以调用语义拆分功能了。\n3.\t该软件不流氓,只要退出软件,后台检测服务也会随之关闭。\n(温馨提醒：\n\t在语义分析界面选择完需要复制的字段之后,手指在屏幕向下滑就可以退出该界面啦~)</string>
+    <string name="MoreAuthor">作者:\t嘉大小鱼\nQ Q:\t949734824\n\t欢迎有想法的伙伴加我,可以相互学习啦~\n(该APP想法来着锤子手机团队,如有侵权,删之)</string>
+</resources>
